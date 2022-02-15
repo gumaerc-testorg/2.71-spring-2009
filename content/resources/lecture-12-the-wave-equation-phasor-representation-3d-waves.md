@@ -2,14 +2,23 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: Slides (![This resource may not render correctly in a screen
+  reader.](/images/inacessible.gif)[PDF - 2.0MB](resources/mit2_71s09_lec12))
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 12: The wave equation; phasor representation; 3D waves'
 uid: ae1fc7f4-799f-5ec8-99d3-d8f613777f1f
 video_files:
   archive_url: http://www.archive.org/download/MIT2_71S09/MIT2_71S09lec12_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-71-optics-spring-2009/32dd2cf701af5067b2f2caf577fa7b1d_roATER6-1yI.vtt
+  video_captions_file: /courses/2-71-optics-spring-2009/32dd2cf701af5067b2f2caf577fa7b1d_roATER6-1yI.vtt
   video_thumbnail_file: https://img.youtube.com/vi/roATER6-1yI/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-71-optics-spring-2009/2471310d14e3d2686d5ca538337f7b2c_roATER6-1yI.pdf
+  video_transcript_file: /courses/2-71-optics-spring-2009/2471310d14e3d2686d5ca538337f7b2c_roATER6-1yI.pdf
 video_metadata:
   youtube_id: roATER6-1yI
 ---

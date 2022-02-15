@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Projects
+optional_tab_title: ''
+optional_text: ''
+parent_title: Projects
+parent_type: CourseSection
+related_resources_text: Slides ([PDF - 2.1MB](resources/mit2_71s09_sw07))
+resource_index_text: ''
 resourcetype: Video
 title: Holographic Tomography
 uid: 74eb53b8-2b0c-2f3b-d734-e5abeedff629

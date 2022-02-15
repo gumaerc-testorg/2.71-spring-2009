@@ -2,8 +2,13 @@
 content_type: resource
 description: Solutions to a final exam on optics. This version of the exam is intended
   for undergraduate students of the course.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-71-optics-spring-2009/facb239c192a437706a6e52a719ad8b0_MIT2_71S09_ufinal_sol.pdf
+file: /media/courses/2-71-optics-spring-2009/facb239c192a437706a6e52a719ad8b0_MIT2_71S09_ufinal_sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: Final Exam Solutions, Undergraduate
 uid: facb239c-192a-4377-06a6-e52a719ad8b0

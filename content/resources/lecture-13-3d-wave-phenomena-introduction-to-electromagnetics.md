@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: Slides ([PDF - 2.4MB](resources/mit2_71s09_lec13))
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 13: 3D wave phenomena; introduction to electromagnetics'
 uid: b6efb598-00e4-28ed-7f26-c019142fdedf
 video_files:
   archive_url: http://www.archive.org/download/MIT2_71S09/MIT2_71S09lec13_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-71-optics-spring-2009/de72c219c7d658c7a01aa7df46df738c_MK5uZttfWfM.vtt
+  video_captions_file: /courses/2-71-optics-spring-2009/de72c219c7d658c7a01aa7df46df738c_MK5uZttfWfM.vtt
   video_thumbnail_file: https://img.youtube.com/vi/MK5uZttfWfM/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-71-optics-spring-2009/61f62df2ad430c6ec78889f253e5d258_MK5uZttfWfM.pdf
+  video_transcript_file: /courses/2-71-optics-spring-2009/61f62df2ad430c6ec78889f253e5d258_MK5uZttfWfM.pdf
 video_metadata:
   youtube_id: MK5uZttfWfM
 ---

@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-71-optics-spring-2009/1f3e784115b33ed5b84207620e8fdda6_JmWguqCZRxk.srt
+file: /media/courses/2-71-optics-spring-2009/1f3e784115b33ed5b84207620e8fdda6_JmWguqCZRxk.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 1f3e7841-15b3-3ed5-b842-07620e8fdda6

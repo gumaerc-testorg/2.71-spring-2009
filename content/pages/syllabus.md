@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 4452cfe5-e90d-ac23-d629-d453e598bad3
 ---
@@ -44,10 +46,10 @@ Undergraduate students are recommended to enroll for 2.71. Graduate students and
 {{< tableopen >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen rowspan="2" >}}
 ACTIVITIES
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 PERCENTAGES
 {{< thclose >}}
 

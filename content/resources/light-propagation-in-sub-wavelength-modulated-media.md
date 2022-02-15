@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Projects
+optional_tab_title: ''
+optional_text: ''
+parent_title: Projects
+parent_type: CourseSection
+related_resources_text: Slides ([PDF](resources/mit2_71s09_sw08))
+resource_index_text: ''
 resourcetype: Video
 title: Light Propagation in Sub-wavelength Modulated Media
 uid: 85fb50d2-42be-eaac-e681-f7f7717d9d23

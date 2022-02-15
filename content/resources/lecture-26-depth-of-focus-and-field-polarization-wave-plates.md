@@ -2,14 +2,23 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: Slides (![This resource may not render correctly in a screen
+  reader.](/images/inacessible.gif)[PDF - 2.8MB](resources/mit2_71s09_lec26))
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 26: Depth of focus and field; polarization; wave plates'
 uid: a2fdb27d-6772-61ab-ad06-676870de5cd9
 video_files:
   archive_url: http://www.archive.org/download/MIT2_71S09/MIT2_71S09lec26_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-71-optics-spring-2009/0ac0edf1ce1c5cfb8ffccdbeb9b069ce_s8XKzciLgak.vtt
+  video_captions_file: /courses/2-71-optics-spring-2009/0ac0edf1ce1c5cfb8ffccdbeb9b069ce_s8XKzciLgak.vtt
   video_thumbnail_file: https://img.youtube.com/vi/s8XKzciLgak/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-71-optics-spring-2009/22396c48b0aae6d289e4d526211c620c_s8XKzciLgak.pdf
+  video_transcript_file: /courses/2-71-optics-spring-2009/22396c48b0aae6d289e4d526211c620c_s8XKzciLgak.pdf
 video_metadata:
   youtube_id: s8XKzciLgak
 ---

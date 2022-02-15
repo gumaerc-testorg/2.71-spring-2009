@@ -1,12 +1,14 @@
 ---
 content_type: resource
 description: Thumbnail image accompanying a video lecture.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-71-optics-spring-2009/8931316a36d14392e4ecdb537adb71c2_MIT2_71S09lec23_th.jpg
+file: /media/courses/2-71-optics-spring-2009/8931316a36d14392e4ecdb537adb71c2_MIT2_71S09lec23_th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: MIT2_71S09lec23_th
 uid: 8931316a-36d1-4392-e4ec-db537adb71c2

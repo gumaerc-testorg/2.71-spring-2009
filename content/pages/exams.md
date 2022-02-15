@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Exams
 uid: 64e77695-cb47-2863-d60a-b432b2729d60
 ---
@@ -7,16 +10,16 @@ uid: 64e77695-cb47-2863-d60a-b432b2729d60
 {{< tableopen >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen rowspan="2" >}}
 Exams
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 Practice
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 Undergraduate (2.71)
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 Graduate (2.710)
 {{< thclose >}}
 

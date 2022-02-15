@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: Slides ([PDF - 1.3MB](resources/mit2_71s09_lec03))
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 3: Focusing, imaging, and the paraxial approximation'
 uid: eac21f4b-ae16-ee77-e08c-cf404f09e8fc
 video_files:
   archive_url: http://www.archive.org/download/MIT2_71S09/MIT2_71S09lec03_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-71-optics-spring-2009/2de77698e35c5e4495fc3495c552c756_X6cea7dAhBc.vtt
+  video_captions_file: /courses/2-71-optics-spring-2009/2de77698e35c5e4495fc3495c552c756_X6cea7dAhBc.vtt
   video_thumbnail_file: https://img.youtube.com/vi/X6cea7dAhBc/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-71-optics-spring-2009/de5506d16a5bfb92d2ce78486b9d7472_X6cea7dAhBc.pdf
+  video_transcript_file: /courses/2-71-optics-spring-2009/de5506d16a5bfb92d2ce78486b9d7472_X6cea7dAhBc.pdf
 video_metadata:
   youtube_id: X6cea7dAhBc
 ---

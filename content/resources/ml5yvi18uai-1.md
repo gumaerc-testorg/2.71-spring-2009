@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-71-optics-spring-2009/fe7e5164555e1c33e5ed8ce91c77c1a3_ML5yVI18uaI.pdf
+file: /media/courses/2-71-optics-spring-2009/fe7e5164555e1c33e5ed8ce91c77c1a3_ML5yVI18uaI.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: fe7e5164-555e-1c33-e5ed-8ce91c77c1a3

@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: Slides ([PDF - 3.1MB](resources/mit2_71s09_lec20))
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 20: Shift invariance; pupil engineering; the Talbot effect'
 uid: feab51a6-bd8d-63fb-761a-cfcd53550881
 video_files:
   archive_url: http://www.archive.org/download/MIT2_71S09/MIT2_71S09lec20_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-71-optics-spring-2009/3b8702e371a15c8c85b2e4781c367086_OWgogzEUC5E.vtt
+  video_captions_file: /courses/2-71-optics-spring-2009/3b8702e371a15c8c85b2e4781c367086_OWgogzEUC5E.vtt
   video_thumbnail_file: https://img.youtube.com/vi/OWgogzEUC5E/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-71-optics-spring-2009/7ccddaf7299cb68204d6be0a83e65f71_OWgogzEUC5E.pdf
+  video_transcript_file: /courses/2-71-optics-spring-2009/7ccddaf7299cb68204d6be0a83e65f71_OWgogzEUC5E.pdf
 video_metadata:
   youtube_id: OWgogzEUC5E
 ---

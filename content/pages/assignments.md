@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 9e91e110-cd2b-2d2c-0492-a5b581ce5547
 ---
@@ -9,13 +12,13 @@ Graduate students in this class were assigned extra problems on some assignments
 {{< tableopen >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen rowspan="2" >}}
 Assignments
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 Undergraduate (2.71)
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 Graduate (2.710)
 {{< thclose >}}
 
@@ -184,8 +187,8 @@ Homework 8
 
 {{< tableclose >}}
 
-MATLAB®
--------
+MATLAB{{< sup "®" >}}
+---------------------
 
 These scripts are used in the problems above.
 
