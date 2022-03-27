@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: Slides ([PDF - 1.9MB](resources/mit2_71s09_lec17))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 17: Fraunhofer diffraction; Fourier transforms and theorems'
 uid: e805cb68-ebc8-0a37-37d1-4f63a4cb0ec8
 video_files:

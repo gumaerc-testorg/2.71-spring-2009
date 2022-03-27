@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Projects
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: Slides ([PDF - 1.7MB](resources/mit2_71s09_sw06))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Design of a Cooke Triplet
 uid: 9eb66fbf-91cb-0e35-816f-1ce190ce2061
 video_files:

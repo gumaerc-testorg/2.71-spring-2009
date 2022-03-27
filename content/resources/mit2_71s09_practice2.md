@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 64e77695-cb47-2863-d60a-b432b2729d60
 resourcetype: Document
 title: Practice Exam 2
 uid: 80f4c16f-8a44-dbfb-8923-9436ff700369

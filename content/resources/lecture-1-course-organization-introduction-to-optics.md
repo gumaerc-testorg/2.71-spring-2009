@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: Slides ([PDF - 2.0MB](resources/mit2_71s09_lec01))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 1: Course organization; introduction to optics'
 uid: 48549340-7a7e-1d1a-1b64-b64364118664
 video_files:

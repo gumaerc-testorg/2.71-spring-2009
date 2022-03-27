@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: Slides (![This resource may not render correctly in a sc
   reader.](/images/inacessible.gif)[PDF - 2.8MB](resources/mit2_71s09_lec26))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 26: Depth of focus and field; polarization; wave plates'
 uid: a2fdb27d-6772-61ab-ad06-676870de5cd9
 video_files:

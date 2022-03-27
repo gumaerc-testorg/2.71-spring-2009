@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9e91e110-cd2b-2d2c-0492-a5b581ce5547
 resourcetype: Document
 title: MIT2_71S09_gps7.pdf
 uid: d391d214-42ca-f34b-20fb-3494d8147cbd

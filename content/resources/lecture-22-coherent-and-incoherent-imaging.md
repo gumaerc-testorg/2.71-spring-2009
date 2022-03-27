@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: Slides ([PDF - 3.5MB](resources/mit2_71s09_lec22))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 22: Coherent and incoherent imaging'
 uid: 49901994-91b4-1afd-fc59-b455f8d274b1
 video_files:

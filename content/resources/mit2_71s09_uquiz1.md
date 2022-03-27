@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 64e77695-cb47-2863-d60a-b432b2729d60
 resourcetype: Document
 title: Quiz 1, Undergraduate
 uid: 09f5fd79-3e0f-ae9f-2e38-6584cdeeb114

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: Slides ([PDF - 3.1MB](resources/mit2_71s09_lec20))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 20: Shift invariance; pupil engineering; the Talbot effect'
 uid: feab51a6-bd8d-63fb-761a-cfcd53550881
 video_files:

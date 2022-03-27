@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9e91e110-cd2b-2d2c-0492-a5b581ce5547
 resourcetype: Document
 title: MIT2_71S09_gsol6.pdf
 uid: 41079a8a-72cd-f957-48d0-7f102217acb5

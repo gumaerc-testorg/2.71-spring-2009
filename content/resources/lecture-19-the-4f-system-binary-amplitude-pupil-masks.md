@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -14,6 +15,7 @@ related_resources_text: 'Slides ([PDF - 2.1MB](resources/mit2_71s09_lec19))
   Supplement ([PDF](resources/mit2_71s09_supp19))'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 19: The 4F system; binary amplitude & pupil masks'
 uid: af0a7591-45f0-1a5b-0bbf-b64141d4bc02
 video_files:

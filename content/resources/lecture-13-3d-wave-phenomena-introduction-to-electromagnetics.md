@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: Slides ([PDF - 2.4MB](resources/mit2_71s09_lec13))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 13: 3D wave phenomena; introduction to electromagnetics'
 uid: b6efb598-00e4-28ed-7f26-c019142fdedf
 video_files:

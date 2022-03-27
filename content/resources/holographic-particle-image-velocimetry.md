@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Projects
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: "\_Slides ([PDF - 3.1MB](resources/mit2_71s09_sw05))"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Holographic Particle Image Velocimetry
 uid: 9d7d16e3-2345-50ed-b4e2-7d02c6124f38
 video_files:

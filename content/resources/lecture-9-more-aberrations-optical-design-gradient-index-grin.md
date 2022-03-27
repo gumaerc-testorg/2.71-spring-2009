@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: Slides (![This resource may not render correctly in a sc
   reader.](/images/inacessible.gif)[PDF - 1.8MB](resources/mit2_71s09_lec09))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 9: More aberrations; optical design; GRadient INdex (GRIN)'
 uid: d3851cf5-37c3-ca68-edb4-e7d8ad64b5d6
 video_files:

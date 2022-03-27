@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: Slides ([PDF](resources/mit2_71s09_lec06))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 6: Terms: apertures, stops, pupils, and windows; single-lens camera'
 uid: d16b0924-1d76-face-e4ed-589d89738057
 video_files:

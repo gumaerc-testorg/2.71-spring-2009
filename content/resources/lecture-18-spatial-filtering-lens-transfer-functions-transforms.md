@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -14,6 +15,7 @@ related_resources_text: 'Slides ([PDF](resources/mit2_71s09_lec18))
   Supplement ([PDF](resources/mit2_71s09_supp18))'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 18: Spatial filtering; lens transfer functions & transforms'
 uid: 7f604ef0-ecca-285c-39ae-c1ff4138b909
 video_files:

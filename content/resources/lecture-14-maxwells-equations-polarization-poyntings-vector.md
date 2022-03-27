@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: Slides (![This resource may not render correctly in a sc
   reader.](/images/inacessible.gif)[PDF](resources/mit2_71s09_lec14))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 14: Maxwell''s equations; polarization; Poynting''s vector'
 uid: 20cdbf6e-ba0a-4ff0-d4ed-b8533f2c74d2
 video_files:

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: Slides (![This resource may not render correctly in a sc
   reader.](/images/inacessible.gif)[PDF - 2.0MB](resources/mit2_71s09_lec12))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 12: The wave equation; phasor representation; 3D waves'
 uid: ae1fc7f4-799f-5ec8-99d3-d8f613777f1f
 video_files:

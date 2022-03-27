@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: Slides ([PDF - 2.3MB](resources/mit2_71s09_lec15))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 15: Huygens principle; interferometers; Fresnel diffraction'
 uid: 80249be6-b3ec-74d6-99f1-5fee456fd566
 video_files:

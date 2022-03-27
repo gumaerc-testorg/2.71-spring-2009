@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: Slides (![This resource may not render correctly in a sc
   reader.](/images/inacessible.gif)[PDF - 1.3MB](resources/mit2_71s09_lec08))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 8: Telescopes; aberrations: chromatic, spherical, and coma'
 uid: f4e83447-53e1-37a3-c5c1-a4165d5c298c
 video_files:

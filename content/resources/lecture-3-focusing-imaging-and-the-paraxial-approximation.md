@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: Slides ([PDF - 1.3MB](resources/mit2_71s09_lec03))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 3: Focusing, imaging, and the paraxial approximation'
 uid: eac21f4b-ae16-ee77-e08c-cf404f09e8fc
 video_files:

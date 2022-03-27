@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 64e77695-cb47-2863-d60a-b432b2729d60
 resourcetype: Document
 title: Quiz 2 Solutions, Graduate
 uid: b0b63145-83b3-979b-59f2-d4f832f295f7

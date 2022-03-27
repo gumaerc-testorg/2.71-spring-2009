@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: Slides ([PDF - 1.4MB](resources/mit2_71s09_lec02))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 2: Reflection and refraction; prisms, waveguides, and dispersion'
 uid: 4fe47ffe-85bc-986f-5b74-8152201535ee
 video_files:

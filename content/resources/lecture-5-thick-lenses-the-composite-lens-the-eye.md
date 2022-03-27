@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -14,6 +15,7 @@ related_resources_text: 'Slides ([PDF - 1.7MB](resources/mit2_71s09_lec05))
   Supplement ([PDF](/courses/mechanical-engineering/2-71-optics-spring-2009/video-lectures/lecture-5-thick-lenses-the-composite-lens-the-eye/MIT2_71S09_supp05.pdf))'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 5: Thick lenses; the composite lens; the eye'
 uid: ce62583d-dd2a-b59e-46ca-2c0f8d5b1be7
 video_files:

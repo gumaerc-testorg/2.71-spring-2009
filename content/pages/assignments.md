@@ -192,6 +192,6 @@ MATLAB{{< sup "®" >}}
 
 These scripts are used in the problems above.
 
-Homework 1, Solutions ([M](/courses/mechanical-engineering/2-71-optics-spring-2009/assignments/n_sf6.m))
+Homework 1, Solutions ([M]({{< baseurl >}}/resources/n_sf6))
 
 Homework 4, Screen Hamiltonian ([ZIP]({{< baseurl >}}/resources/screenhamiltonian)) (This ZIP file contains: 4 .m files.)

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: Slides ([PDF - 1.2MB](resources/mit2_71s09_lec07))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 7: Basics of mirrors, magnifiers, and microscopes'
 uid: ee3f40f9-4322-e7e9-19c8-5b9d262fa285
 video_files:
