@@ -5,11 +5,12 @@ end_time: ''
 file: null
 learning_resource_types:
 - Projects
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Projects
 parent_type: CourseSection
-related_resources_text: Slides ([PDF - 1.2MB](resources/mit2_71s09_sw03))
+related_resources_text: Slides ([PDF - 1.2MB](/courses/2-71-optics-spring-2009/resources/mit2_71s09_sw03))
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Project Topic**: Accuracy Requirements in the Mechanical Assessment of Photonic Crystals
 
 **Speakers**: Martin Deterre, Corey Fucetola, Sebastien Uzel
+
+
+

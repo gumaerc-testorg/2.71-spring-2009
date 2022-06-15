@@ -1,9 +1,16 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, prerequisites,
+  collaboration, late policy, homework and quiz exemptions, the final exam, grading
+  policies, required texts, and recommended texts.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 4452cfe5-e90d-ac23-d629-d453e598bad3
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times

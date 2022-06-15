@@ -5,11 +5,12 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Slides ([PDF - 2.0MB](resources/mit2_71s09_lec01))
+related_resources_text: Slides ([PDF - 2.0MB](/courses/2-71-optics-spring-2009/resources/mit2_71s09_lec01))
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Topics**: Introduction; brief history of optics; absorption, refraction; laws of reflection and refraction.
 
 **Instructors**: George Barbastathis, Colin Sheppard
+
+
+

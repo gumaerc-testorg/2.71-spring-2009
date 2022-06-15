@@ -5,11 +5,12 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Slides ([PDF - 1.3MB](resources/mit2_71s09_lec03))
+related_resources_text: Slides ([PDF - 1.3MB](/courses/2-71-optics-spring-2009/resources/mit2_71s09_lec03))
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Topics**: Perfect focusing; paraboloidal reflector; ellipsoidal refractor; introduction to imaging; perfect on-axis imaging using aspheric lenses; imperfect imaging using spherical surfaces; paraxial approximation; ray transfer matrices.
 
 **Instructors**: George Barbastathis, Colin Sheppard
+
+
+

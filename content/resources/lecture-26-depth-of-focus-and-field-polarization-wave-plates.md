@@ -5,12 +5,12 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Slides (![This resource may not render correctly in a screen
-  reader.](/images/inacessible.gif)[PDF - 2.8MB](resources/mit2_71s09_lec26))
+related_resources_text: Slides ([PDF - 2.8MB](/courses/2-71-optics-spring-2009/resources/mit2_71s09_lec26))
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -28,3 +28,6 @@ video_metadata:
 **Topics**: Depth of focus and depth of field; deconvolution and Tikhonov regularization; polarization; wave plates; effects of polarization on high-NA optical systems.
 
 **Instructors**: George Barbastathis, Colin Sheppard
+
+
+

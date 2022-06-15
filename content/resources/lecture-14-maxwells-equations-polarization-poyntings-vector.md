@@ -5,12 +5,12 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Slides (![This resource may not render correctly in a screen
-  reader.](/images/inacessible.gif)[PDF](resources/mit2_71s09_lec14))
+related_resources_text: Slides ([PDF](/courses/2-71-optics-spring-2009/resources/mit2_71s09_lec14))
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -28,3 +28,6 @@ video_metadata:
 **Topics**: Maxwell's equations (cont.); polarization justification of the refractive index; electromagnetic energy flux and Poynting's vector; irradiance (intensity).
 
 **Instructors**: George Barbastathis, Colin Sheppard
+
+
+

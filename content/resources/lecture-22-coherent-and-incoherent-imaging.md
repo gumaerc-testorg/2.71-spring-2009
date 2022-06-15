@@ -5,11 +5,12 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Slides ([PDF - 3.5MB](resources/mit2_71s09_lec22))
+related_resources_text: Slides ([PDF - 3.5MB](/courses/2-71-optics-spring-2009/resources/mit2_71s09_lec22))
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Topics**: Temporal and spatial coherence; spatially incoherent imaging; Optical Transfer Function (OTF) and Modulation Transfer Function (MTF); comparison of coherent and incoherent imaging.
 
 **Instructors**: George Barbastathis, Colin Sheppard
+
+
+

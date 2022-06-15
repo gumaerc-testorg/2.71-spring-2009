@@ -5,14 +5,15 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: 'Slides ([PDF - 2.1MB](resources/mit2_71s09_lec19))
+related_resources_text: 'Slides ([PDF - 2.1MB](/courses/2-71-optics-spring-2009/resources/mit2_71s09_lec19))
 
 
-  Supplement ([PDF](resources/mit2_71s09_supp19))'
+  Supplement ([PDF](/courses/2-71-optics-spring-2009/resources/mit2_71s09_supp19))'
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -30,3 +31,6 @@ video_metadata:
 **Topics**: 4F system (telescope with finite conjugates) as a cascade of Fourier transforms; binary amplitude and phase pupil masks; Point Spread Function (PSF).
 
 **Instructors**: George Barbastathis, Colin Sheppard
+
+
+

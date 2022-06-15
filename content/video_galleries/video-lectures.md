@@ -1,11 +1,17 @@
 ---
 content_type: video_gallery
+description: This section provides video lectures from selected lecture sessions of
+  the course.
 is_media_gallery: true
 learning_resource_types:
 - Lecture Videos
 ocw_type: CourseSection
 title: Video Lectures
 uid: ab2758d6-d3b4-6975-39af-7b14d114347c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 videos:
   content:
   - 48549340-7a7e-1d1a-1b64-b64364118664
@@ -34,7 +40,7 @@ videos:
   website: 2-71-optics-spring-2009
 ---
 
-Video lectures are not available for sessions 10, 21 and 24. Sessions 10 and 21 were quizzes. Session 24 was student project presentations, videos of which can be found on the [Projects]({{< baseurl >}}/video_galleries/projects) page.
+Video lectures are not available for sessions 10, 21 and 24. Sessions 10 and 21 were quizzes. Session 24 was student project presentations, videos of which can be found on the {{% resource_link 764fabe6-d2d5-ebc4-839b-60422b2be364 "Projects" %}} page.
 
 {{< video-gallery "ab2758d6-d3b4-6975-39af-7b14d114347c" >}}
 
