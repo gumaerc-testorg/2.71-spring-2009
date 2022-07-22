@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Project Topic**: Wigner Distribution Function and Integral Imaging
 
 **Speakers**: Michael McCanna, Shalin Mehta, Lei Tian, Michelle Lydia Kam Ye-Sien
-
-
 

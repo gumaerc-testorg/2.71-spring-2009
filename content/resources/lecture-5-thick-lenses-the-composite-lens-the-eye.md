@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -31,6 +32,4 @@ video_metadata:
 **Topics**: Imaging at finite distances with thin lenses; thick lenses; the human eye; image formation by a composite lens.
 
 **Instructors**: George Barbastathis, Colin Sheppard
-
-
 

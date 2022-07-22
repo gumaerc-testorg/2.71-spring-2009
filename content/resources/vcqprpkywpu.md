@@ -4,6 +4,7 @@ description: ''
 file: /courses/2-71-optics-spring-2009/22b6818016a3d27d1c87d9f2772b3585_vcqPRPkyWPU.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

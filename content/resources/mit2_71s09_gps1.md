@@ -6,6 +6,7 @@ file: /courses/2-71-optics-spring-2009/7e248e0555b79902d8934d94654cfbfd_MIT2_71S
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information about the spherical waves and energy conservation, order of magnitude calculations and lifeguard problem.
-

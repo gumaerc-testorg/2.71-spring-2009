@@ -5,6 +5,7 @@ file: /courses/2-71-optics-spring-2009/e3d66540f2807c1a2dba82f2c1abc94d_ScreenHa
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains four supporting .m files for the course.
-

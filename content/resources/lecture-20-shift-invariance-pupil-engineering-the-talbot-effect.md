@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Topics**: Shift invariance; Amplitude Transfer Function (ATF); lateral and angular magnification in the 4F system; relationship between NA, PSF, and ATF; sampling and the Space Bandwidth Product (SBP); advanced spatial filtering: pupil engineering, phase contrast imaging; Talbot effect.
 
 **Instructors**: George Barbastathis, Colin Sheppard
-
-
 

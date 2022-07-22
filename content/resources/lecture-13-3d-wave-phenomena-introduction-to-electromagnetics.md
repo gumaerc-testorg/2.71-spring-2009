@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Topics**: 3D waves: plane, spherical; dispersive waves; group velocity; spatial frequencies; introduction to electromagnetics; Maxwell's equations; derivation of the wave equation for light.
 
 **Instructors**: George Barbastathis, Colin Sheppard
-
-
 

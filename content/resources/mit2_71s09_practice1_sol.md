@@ -5,6 +5,7 @@ file: /courses/2-71-optics-spring-2009/9cfd8aaf1efc99b7595989c77fb81756_MIT2_71S
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Solutions to a practice exam on optics.
-

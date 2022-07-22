@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Topics**: Geometrical aberrations (cont.): astigmatism, field curvature, distortion; optical design demo; GRadient INdex (GRIN) optics: quadratic and axial profile; introduction to the Hamiltonian formulation.
 
 **Instructors**: George Barbastathis, Colin Sheppard
-
-
 

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -31,6 +32,4 @@ video_metadata:
 **Topics**: 4F system (telescope with finite conjugates) as a cascade of Fourier transforms; binary amplitude and phase pupil masks; Point Spread Function (PSF).
 
 **Instructors**: George Barbastathis, Colin Sheppard
-
-
 

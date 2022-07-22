@@ -6,6 +6,7 @@ file: /courses/2-71-optics-spring-2009/a4d052ece32929846a54d16b1be5ed5d_MIT2_71S
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Final exam on optics. This version of the exam is intended for graduate students of the course.
-

@@ -4,6 +4,7 @@ description: ''
 file: /courses/2-71-optics-spring-2009/fe7e5164555e1c33e5ed8ce91c77c1a3_ML5yVI18uaI.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file

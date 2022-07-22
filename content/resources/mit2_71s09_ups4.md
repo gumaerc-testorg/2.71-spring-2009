@@ -6,6 +6,7 @@ file: /courses/2-71-optics-spring-2009/69883f5879c1bd897d2b59b8e401f3d9_MIT2_71S
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains questions for Problem Set 4: knocking down one dimension, rays in harmonic oscillation and mechanical screen hamiltonian.
-

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Topics**: Perfect focusing; paraboloidal reflector; ellipsoidal refractor; introduction to imaging; perfect on-axis imaging using aspheric lenses; imperfect imaging using spherical surfaces; paraxial approximation; ray transfer matrices.
 
 **Instructors**: George Barbastathis, Colin Sheppard
-
-
 

@@ -5,6 +5,7 @@ file: /courses/2-71-optics-spring-2009/54a17233e9da991997338f3dee366582_MIT2_71S
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information about Zernice and signum phase masks.
-

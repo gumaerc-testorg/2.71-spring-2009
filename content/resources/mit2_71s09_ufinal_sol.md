@@ -6,6 +6,7 @@ file: /courses/2-71-optics-spring-2009/facb239c192a437706a6e52a719ad8b0_MIT2_71S
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Solutions to a final exam on optics. This version of the exam is intended for undergraduate students of the course.
-

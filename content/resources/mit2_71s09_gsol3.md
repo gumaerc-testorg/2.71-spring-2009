@@ -6,6 +6,7 @@ file: /courses/2-71-optics-spring-2009/69c830c1a3ef26720ec747bb3c694f12_MIT2_71S
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information about the solutions for problem set 3.
-
