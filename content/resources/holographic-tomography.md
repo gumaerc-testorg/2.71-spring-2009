@@ -1,8 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Projects
+parent_type: CourseSection
+related_resources_text: Slides ([PDF - 2.1MB](/courses/2-71-optics-spring-2009/resources/mit2_71s09_sw07))
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Holographic Tomography
 uid: 74eb53b8-2b0c-2f3b-d734-e5abeedff629
 video_files:
@@ -17,3 +29,4 @@ video_metadata:
 **Project Topic**: Holographic Tomography
 
 **Speakers**: Aditya Bhakta, Danny Codd
+

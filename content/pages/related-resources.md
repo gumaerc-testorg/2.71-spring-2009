@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: This section contains animations that illustrate diffraction in various
+  scenarios.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: abdd52da-9b03-74b5-fbdd-4ce68e2405f5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The following animations illustrate diffraction in various scenarios.
