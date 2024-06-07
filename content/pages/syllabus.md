@@ -134,7 +134,7 @@ Each problem is worth 3 points; you earn
 
 ### Term Grades
 
-We do **not** grade on a curve; we use the {{% resource_link "b8912c25-f707-4881-a79e-5485b1fbd628" "Institute grade definitions" %}}.
+We do **not** grade on a curve; we use the [Institute grade definitions](http://web.mit.edu/academic-guide/section_06.html).
 
 Required Texts
 --------------

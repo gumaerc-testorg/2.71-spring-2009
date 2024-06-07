@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information about the spherical waves and energy
   conservation, order of magnitude calculations and lifeguard problem.
 file: /courses/2-71-optics-spring-2009/7e248e0555b79902d8934d94654cfbfd_MIT2_71S09_gps1.pdf
+file_size: 131472
 file_type: application/pdf
 learning_resource_types:
 - Assignments
