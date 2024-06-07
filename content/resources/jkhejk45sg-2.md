@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/2-71-optics-spring-2009/01c29d85fecb567b8e32d6cca21b4f25_jKHejk45Sg.vtt
+file_size: 75414
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

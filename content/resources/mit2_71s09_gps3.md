@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information about wanda's world and ball lens
   magnifier.
 file: /courses/2-71-optics-spring-2009/ef406afb8278ea06ddbe479172359b1e_MIT2_71S09_gps3.pdf
+file_size: 130038
 file_type: application/pdf
 learning_resource_types:
 - Assignments

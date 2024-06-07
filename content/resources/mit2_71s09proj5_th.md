@@ -2,6 +2,7 @@
 content_type: resource
 description: Thumbnail image accompanying a student project video.
 file: /courses/2-71-optics-spring-2009/d660a350a963a6384e65c157034195d5_MIT2_71S09proj5_th.jpg
+file_size: 4602
 file_type: image/jpeg
 image_metadata:
   caption: ''

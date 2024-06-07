@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains solutions to the problem set 7.
 file: /courses/2-71-optics-spring-2009/e9d4fd9c432342d6498f2f144e4a4a2b_MIT2_71S09_gsol7.pdf
+file_size: 858980
 file_type: application/pdf
 learning_resource_types:
 - Assignments

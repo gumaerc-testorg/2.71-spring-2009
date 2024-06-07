@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information about the problem set of optics.
 file: /courses/2-71-optics-spring-2009/a9a2e4b96e71934ec42ead268421db9c_MIT2_71S09_ups5.pdf
+file_size: 66499
 file_type: application/pdf
 learning_resource_types:
 - Assignments

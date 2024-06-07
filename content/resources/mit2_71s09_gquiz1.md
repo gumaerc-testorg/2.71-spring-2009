@@ -4,6 +4,7 @@ description: Quiz on optics, eye correction, and aperture and field stops in a t
   with finite conjugates.  This version of the quiz is intended for graduate students
   of the course.
 file: /courses/2-71-optics-spring-2009/707c970121c568535415e7906f6bf31c_MIT2_71S09_gquiz1.pdf
+file_size: 82085
 file_type: application/pdf
 learning_resource_types:
 - Exams
