@@ -2,6 +2,7 @@
 content_type: resource
 description: Thumbnail image accompanying a video lecture.
 file: /courses/2-71-optics-spring-2009/bf18d17aa9349067e09235a8dad4e000_MIT2_71S09lec03_th.jpg
+file_size: 4596
 file_type: image/jpeg
 image_metadata:
   caption: ''

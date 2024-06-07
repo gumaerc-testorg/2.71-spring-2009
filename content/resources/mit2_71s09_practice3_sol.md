@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions to a practice exam on optics.
 file: /courses/2-71-optics-spring-2009/1c43e86ed3d0cd95e565a984b718fe58_MIT2_71S09_practice3_sol.pdf
+file_size: 1611700
 file_type: application/pdf
 learning_resource_types:
 - Exams

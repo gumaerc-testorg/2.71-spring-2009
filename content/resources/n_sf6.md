@@ -3,6 +3,7 @@ content_type: resource
 description: This resource is a supporting file that contains solutions for the assignment
   file.
 file: /courses/2-71-optics-spring-2009/6756ee71ff0fead02e268ede1ecf57d8_n_sf6.m
+file_size: 244
 file_type: text/plain
 learning_resource_types:
 - Assignments
