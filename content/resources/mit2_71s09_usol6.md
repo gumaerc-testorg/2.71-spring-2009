@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solutions for the problem set 6.
-file: /courses/2-71-optics-spring-2009/c407effac31d5bbd551ad14a76372262_MIT2_71S09_usol6.pdf
+file: /ol-ocw-studio-app/courses/2-71-optics-spring-2009/c407effac31d5bbd551ad14a76372262_MIT2_71S09_usol6.pdf
 file_size: 752690
 file_type: application/pdf
 learning_resource_types:
