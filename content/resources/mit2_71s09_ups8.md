@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about the problem sets of the course.
-file: /courses/2-71-optics-spring-2009/a7075a373e849978b821cee6e1aab388_MIT2_71S09_ups8.pdf
+file: /ol-ocw-studio-app/courses/2-71-optics-spring-2009/a7075a373e849978b821cee6e1aab388_MIT2_71S09_ups8.pdf
 file_size: 78087
 file_type: application/pdf
 learning_resource_types:
