@@ -2,7 +2,7 @@
 content_type: resource
 description: Solutions to a final exam on optics. This version of the exam is intended
   for undergraduate students of the course.
-file: /ol-ocw-studio-app/courses/2-71-optics-spring-2009/facb239c192a437706a6e52a719ad8b0_MIT2_71S09_ufinal_sol.pdf
+file: /courses/2-71-optics-spring-2009/facb239c192a437706a6e52a719ad8b0_MIT2_71S09_ufinal_sol.pdf
 file_size: 687333
 file_type: application/pdf
 learning_resource_types:

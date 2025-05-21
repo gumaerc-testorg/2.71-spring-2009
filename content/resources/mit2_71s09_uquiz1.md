@@ -3,7 +3,7 @@ content_type: resource
 description: Quiz on optics, eye correction, and aperture and field stops in a telescope
   with finite conjugates.   This version of the quiz is intended for undergraduate
   students of the course.
-file: /ol-ocw-studio-app/courses/2-71-optics-spring-2009/09f5fd793e0fae9f2e386584cdeeb114_MIT2_71S09_uquiz1.pdf
+file: /courses/2-71-optics-spring-2009/09f5fd793e0fae9f2e386584cdeeb114_MIT2_71S09_uquiz1.pdf
 file_size: 80993
 file_type: application/pdf
 learning_resource_types:

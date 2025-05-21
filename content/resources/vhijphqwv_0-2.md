@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/2-71-optics-spring-2009/20f5ce8d9f6a58e787bcfaddc2e84729_VHIJPHqwV_0.vtt
+file: /courses/2-71-optics-spring-2009/20f5ce8d9f6a58e787bcfaddc2e84729_VHIJPHqwV_0.vtt
 file_size: 135030
 file_type: application/x-subrip
 learning_resource_types: []

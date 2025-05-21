@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains four supporting .m files for the course.
-file: /ol-ocw-studio-app/courses/2-71-optics-spring-2009/e3d66540f2807c1a2dba82f2c1abc94d_ScreenHamiltonian.zip
+file: /courses/2-71-optics-spring-2009/e3d66540f2807c1a2dba82f2c1abc94d_ScreenHamiltonian.zip
 file_size: 2421
 file_type: application/zip
 learning_resource_types:

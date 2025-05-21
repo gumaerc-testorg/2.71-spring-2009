@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about wiper speed control design,
   and telescope with finite and infinite conjugates.
-file: /ol-ocw-studio-app/courses/2-71-optics-spring-2009/aca1904d14dce148979ce064efa4afad_MIT2_71S09_gps2.pdf
+file: /courses/2-71-optics-spring-2009/aca1904d14dce148979ce064efa4afad_MIT2_71S09_gps2.pdf
 file_size: 128962
 file_type: application/pdf
 learning_resource_types:

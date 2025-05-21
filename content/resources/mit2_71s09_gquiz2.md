@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Quiz for graduate students on optics, interference, and spatial filtering.
-file: /ol-ocw-studio-app/courses/2-71-optics-spring-2009/e3a514badd795a48f5125b386fd59b2c_MIT2_71S09_gquiz2.pdf
+file: /courses/2-71-optics-spring-2009/e3a514badd795a48f5125b386fd59b2c_MIT2_71S09_gquiz2.pdf
 file_size: 130736
 file_type: application/pdf
 learning_resource_types:

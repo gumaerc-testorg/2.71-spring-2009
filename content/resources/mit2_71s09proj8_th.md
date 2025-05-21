@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Thumbnail image accompanying a student project video.
-file: /ol-ocw-studio-app/courses/2-71-optics-spring-2009/6afbeb48c2a3dd45a37ed6aca17babfc_MIT2_71S09proj8_th.jpg
+file: /courses/2-71-optics-spring-2009/6afbeb48c2a3dd45a37ed6aca17babfc_MIT2_71S09proj8_th.jpg
 file_size: 4790
 file_type: image/jpeg
 image_metadata:
