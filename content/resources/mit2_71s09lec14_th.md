@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Thumbnail image accompanying a video lecture.
-file: /ol-ocw-studio-app/courses/2-71-optics-spring-2009/737942346a9aa74dcff75bca5726cd91_MIT2_71S09lec14_th.jpg
+file: /courses/2-71-optics-spring-2009/737942346a9aa74dcff75bca5726cd91_MIT2_71S09lec14_th.jpg
 file_size: 4811
 file_type: image/jpeg
 image_metadata:
