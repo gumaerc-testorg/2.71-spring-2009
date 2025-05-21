@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about the knocking down one dimension,
   rays in harmonic oscillation and mechanical screen hamiltonian.
-file: /ol-ocw-studio-app/courses/2-71-optics-spring-2009/d50aca34b6ef631ee82fd15aeb5e2916_MIT2_71S09_gps4.pdf
+file: /courses/2-71-optics-spring-2009/d50aca34b6ef631ee82fd15aeb5e2916_MIT2_71S09_gps4.pdf
 file_size: 198797
 file_type: application/pdf
 learning_resource_types:

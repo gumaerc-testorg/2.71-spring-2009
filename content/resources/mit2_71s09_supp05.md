@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture supplement on image formation by a composite lens.
-file: /ol-ocw-studio-app/courses/2-71-optics-spring-2009/2efbc4283744e991f3937786148758f4_MIT2_71S09_supp05.pdf
+file: /courses/2-71-optics-spring-2009/2efbc4283744e991f3937786148758f4_MIT2_71S09_supp05.pdf
 file_size: 354610
 file_type: application/pdf
 learning_resource_types: []
