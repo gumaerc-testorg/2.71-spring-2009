@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about the grating with tilted plane,
   spherical wave illumination and tilted ellipse.
-file: /courses/2-71-optics-spring-2009/09c7896378c06ab5f32bd59031125df0_MIT2_71S09_gps6.pdf
+file: /ol-ocw-studio-app/courses/2-71-optics-spring-2009/09c7896378c06ab5f32bd59031125df0_MIT2_71S09_gps6.pdf
 file_size: 119174
 file_type: application/pdf
 learning_resource_types:

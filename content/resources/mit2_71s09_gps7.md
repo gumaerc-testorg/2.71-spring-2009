@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about Zernice and signum phase masks.
-file: /courses/2-71-optics-spring-2009/d391d21442caf34b20fb3494d8147cbd_MIT2_71S09_gps7.pdf
+file: /ol-ocw-studio-app/courses/2-71-optics-spring-2009/d391d21442caf34b20fb3494d8147cbd_MIT2_71S09_gps7.pdf
 file_size: 191394
 file_type: application/pdf
 learning_resource_types:
