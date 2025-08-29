@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/2-71-optics-spring-2009/mit2_71s09_lec11.pdf
+file: /ol-ocw-studio-app/courses/2-71-optics-spring-2009/mit2_71s09_lec11.pdf
 file_size: 1656468
 file_type: application/pdf
 image_metadata:
